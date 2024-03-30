@@ -1,0 +1,10 @@
+.row1
+  {
+     display:flex;
+     align-items: center;
+     justify-content: center;
+  }
+.container
+{
+  margin-top: 200px;
+}
